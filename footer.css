@@ -1,0 +1,53 @@
+footer {
+  
+  background: #F0F0F4;
+
+  height: 136px;
+
+  display: flex;
+  flex-direction: column;
+
+  padding: 40px 64px;
+
+  margin-bottom: 100px;
+
+  background: #535971;
+  border-radius: 0px 0px 20px 20px;
+}
+
+footer .button {
+  height: 56px;
+  background: #FF5374;
+  border: 0;
+  border-radius: 8px;
+
+  font-family: 'Archivo';
+
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 26px;
+
+  font-family: "Staatliches";
+  font-weight: 400;
+  font-size: 20px;
+
+
+  color: #FFFFFF;
+}
+
+footer .button:hover {
+  background: #aa2f48;
+}
+
+input:invalid {
+  border: 2px solid #FF1010;
+}
+
+h4 {
+  font-family: 'Staatliches';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 34px;  
+color: #535971;
+}
